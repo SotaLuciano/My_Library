@@ -1,0 +1,10 @@
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\bin\Debug\Library_Data.exe.config
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\bin\Debug\Library_Data.exe
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\bin\Debug\Library_Data.pdb
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.Form1.resources
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.Properties.Resources.resources
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.csproj.GenerateResource.Cache
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.exe
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.pdb
+D:\Visual Studio\Visual Studio C# Projects\Library_Data\Library_Data\obj\Debug\Library_Data.Form2.resources
